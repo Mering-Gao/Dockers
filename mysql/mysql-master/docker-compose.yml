@@ -1,0 +1,19 @@
+
+version: "3.8"
+services:
+
+  mysql-master:
+    image: mysql
+    container_name: mysql-master
+    ports:
+      - "3306:3306"
+    volumes: 
+      - type: bind
+        source: ./mysql
+        target: /etc/mysql
+      - type: bind
+        source: ./data
+        target: /var/lib/mysql
+    restart: always
+    environment: 
+      MYSQL_ROOT_PASSWORD: 123456
