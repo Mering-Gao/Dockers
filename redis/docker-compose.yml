@@ -3,14 +3,13 @@ version: "3.8"
 services:
 
   redis:
-    image: mysql
+    image: redis
     container_name: redis
     ports:
-      - "3307:3306"
+      - "6379:6379"
     volumes: 
       - type: bind
-        source: ./mysql
-        target: /etc/mysql
+        source: ./config/redis.conf
+        target: /usr/local/etc/redis/redis.conf
     restart: always
-    environment: 
-      MYSQL_ROOT_PASSWORD: 123456
+    command: redis-server /usr/local/etc/redis/redis.conf

@@ -1,4 +1,6 @@
 .vscode
 .idea
-data/
+mysql/mysql-master/data/
+mysql/mysql-slave/data/
+mongo/db
 .DS_Store
