@@ -1,0 +1,97 @@
+
+version: "3.8"
+services:
+  master-1:
+    image: redis
+    container_name: sentinel-master-1
+    network_mode: cusnet
+    ports:
+      - "6379:26379"
+  master-2:
+    image: redis
+    container_name: sentinel-master-2
+    network_mode: cusnet
+    ports:
+      - "6380:26379"
+  master-3:
+    image: redis
+    container_name: sentinel-master-3
+    network_mode: cusnet
+    ports:
+      - "6381:26379"
+  slave-1:
+    image: redis
+    container_name: sentinel-slave-1
+    network_mode: cusnet
+    volumes: 
+      - type: bind
+        source: ./master-slave-1
+        target: /usr/local/etc/redis
+    command: redis-server /usr/local/etc/redis/slave.conf
+  slave-2:
+    image: redis
+    container_name: sentinel-slave-2
+    network_mode: cusnet
+    volumes: 
+      - type: bind
+        source: ./master-slave-2
+        target: /usr/local/etc/redis
+    command: redis-server /usr/local/etc/redis/slave.conf
+  slave-3:
+    image: redis
+    container_name: sentinel-slave-3
+    network_mode: cusnet
+    volumes: 
+      - type: bind
+        source: ./master-slave-3
+        target: /usr/local/etc/redis
+    command: redis-server /usr/local/etc/redis/slave.conf
+
+  sentinel-1:
+    image: redis
+    container_name: sentinel-1
+    network_mode: cusnet
+    ports:
+      - "8379:26379"
+    volumes: 
+      - type: bind
+        source: ./sentinel-1
+        target: /usr/local/etc/redis
+    restart: always
+    command: redis-sentinel /usr/local/etc/redis/sentinel.conf
+    depends_on: 
+      - master-1
+      - master-2
+      - master-3
+  sentinel-2:
+    image: redis
+    container_name: sentinel-2
+    network_mode: cusnet
+    ports:
+      - "8380:26379"
+    volumes: 
+      - type: bind
+        source: ./sentinel-2
+        target: /usr/local/etc/redis
+    restart: always
+    command: redis-sentinel /usr/local/etc/redis/sentinel.conf
+    depends_on: 
+      - master-1
+      - master-2
+      - master-3
+  sentinel-3:
+    image: redis
+    container_name: sentinel-3
+    network_mode: cusnet
+    ports:
+      - "8381:26379"
+    volumes: 
+      - type: bind
+        source: ./sentinel-3
+        target: /usr/local/etc/redis
+    restart: always
+    command: redis-sentinel /usr/local/etc/redis/sentinel.conf
+    depends_on: 
+      - master-1
+      - master-2
+      - master-3
