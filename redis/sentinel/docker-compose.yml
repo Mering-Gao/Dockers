@@ -5,20 +5,14 @@ services:
     image: redis
     container_name: sentinel-master-1
     network_mode: cusnet
-    ports:
-      - "6379:26379"
   master-2:
     image: redis
     container_name: sentinel-master-2
     network_mode: cusnet
-    ports:
-      - "6380:26379"
   master-3:
     image: redis
     container_name: sentinel-master-3
     network_mode: cusnet
-    ports:
-      - "6381:26379"
   slave-1:
     image: redis
     container_name: sentinel-slave-1
