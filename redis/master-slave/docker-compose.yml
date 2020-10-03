@@ -1,0 +1,27 @@
+
+version: "3.8"
+services:
+
+  redis-master:
+    image: redis
+    container_name: redis-master
+    ports:
+      - "6379:6379"
+    volumes: 
+      - type: bind
+        source: ./master
+        target: /usr/local/etc/redis
+    restart: always
+    command: redis-server /usr/local/etc/redis/redis.conf
+
+  redis-slave:
+    image: redis
+    container_name: redis-slave
+    ports:
+      - "6380:6379"
+    volumes: 
+      - type: bind
+        source: ./slave
+        target: /usr/local/etc/redis
+    restart: always
+    command: redis-server /usr/local/etc/redis/redis.conf
