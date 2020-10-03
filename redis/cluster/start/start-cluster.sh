@@ -11,4 +11,7 @@ done
 
 echo "yes"| redis-cli --cluster create $HOSTS --cluster-replicas 1
 
-redis-server
+while true;
+do
+sleep 10
+done
