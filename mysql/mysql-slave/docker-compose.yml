@@ -3,8 +3,9 @@ version: "3.8"
 services:
 
   mysql-slave:
-    image: mysql
+    image: mysql:5.7
     container_name: mysql-slave
+    network_mode: cusnet
     ports:
       - "3307:3306"
     volumes: 

@@ -1,0 +1,36 @@
+
+version: "3.8"
+services:
+
+  mysql-master:
+    image: mysql:5.7
+    container_name: mysql-master
+    network_mode: cusnet
+    ports:
+      - "3306:3306"
+    volumes: 
+      - type: bind
+        source: ./mysql-master/mysql
+        target: /etc/mysql
+      - type: bind
+        source: ./mysql-master/data
+        target: /var/lib/mysql
+    restart: always
+    environment: 
+      MYSQL_ROOT_PASSWORD: 123456
+  mysql-slave:
+    image: mysql:5.7
+    container_name: mysql-slave
+    network_mode: cusnet
+    ports:
+      - "3307:3306"
+    volumes: 
+      - type: bind
+        source: ./mysql-slave/mysql
+        target: /etc/mysql
+      - type: bind
+        source: ./mysql-slave/data
+        target: /var/lib/mysql
+    restart: always
+    environment: 
+      MYSQL_ROOT_PASSWORD: 123456
