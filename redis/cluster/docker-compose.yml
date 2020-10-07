@@ -19,6 +19,8 @@ services:
         source: ./node-config
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/redis.conf
+    depends_on: 
+      - cluster-1
   cluster-3:
     image: redis
     container_name: redis-cluster-3
@@ -28,6 +30,8 @@ services:
         source: ./node-config
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/redis.conf
+    depends_on: 
+      - cluster-2
   cluster-4:
     image: redis
     container_name: redis-cluster-4
@@ -37,6 +41,8 @@ services:
         source: ./node-config
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/redis.conf
+    depends_on: 
+      - cluster-3
   cluster-5:
     image: redis
     container_name: redis-cluster-5
@@ -46,6 +52,8 @@ services:
         source: ./node-config
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/redis.conf
+    depends_on: 
+      - cluster-4
   cluster-6:
     image: redis
     container_name: redis-cluster-6
@@ -55,6 +63,8 @@ services:
         source: ./node-config
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/redis.conf
+    depends_on: 
+      - cluster-5
 
   cluster-creator:
     image: redis
@@ -67,9 +77,4 @@ services:
         target: /bin/start-cluster.sh
     command: bash /bin/start-cluster.sh
     depends_on: 
-      - cluster-1
-      - cluster-2
-      - cluster-3
-      - cluster-4
-      - cluster-5
       - cluster-6
