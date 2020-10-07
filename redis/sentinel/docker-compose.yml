@@ -5,41 +5,39 @@ services:
     image: redis
     container_name: sentinel-master-1
     network_mode: cusnet
-  master-2:
-    image: redis
-    container_name: sentinel-master-2
-    network_mode: cusnet
-  master-3:
-    image: redis
-    container_name: sentinel-master-3
-    network_mode: cusnet
   slave-1:
     image: redis
     container_name: sentinel-slave-1
     network_mode: cusnet
     volumes: 
       - type: bind
-        source: ./master-slave-1
+        source: ./master-slave
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/slave.conf
+    depends_on: 
+      - master-1
   slave-2:
     image: redis
     container_name: sentinel-slave-2
     network_mode: cusnet
     volumes: 
       - type: bind
-        source: ./master-slave-2
+        source: ./master-slave
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/slave.conf
+    depends_on: 
+      - master-1
   slave-3:
     image: redis
     container_name: sentinel-slave-3
     network_mode: cusnet
     volumes: 
       - type: bind
-        source: ./master-slave-3
+        source: ./master-slave
         target: /usr/local/etc/redis
     command: redis-server /usr/local/etc/redis/slave.conf
+    depends_on: 
+      - master-1
 
   sentinel-1:
     image: redis
@@ -49,14 +47,15 @@ services:
       - "8379:26379"
     volumes: 
       - type: bind
-        source: ./sentinel-1
+        source: ./sentinel
         target: /usr/local/etc/redis
     restart: always
     command: redis-sentinel /usr/local/etc/redis/sentinel.conf
     depends_on: 
       - master-1
-      - master-2
-      - master-3
+      - slave-1
+      - slave-2
+      - slave-3
   sentinel-2:
     image: redis
     container_name: sentinel-2
@@ -65,14 +64,15 @@ services:
       - "8380:26379"
     volumes: 
       - type: bind
-        source: ./sentinel-2
+        source: ./sentinel
         target: /usr/local/etc/redis
     restart: always
     command: redis-sentinel /usr/local/etc/redis/sentinel.conf
     depends_on: 
       - master-1
-      - master-2
-      - master-3
+      - slave-1
+      - slave-2
+      - slave-3
   sentinel-3:
     image: redis
     container_name: sentinel-3
@@ -81,11 +81,12 @@ services:
       - "8381:26379"
     volumes: 
       - type: bind
-        source: ./sentinel-3
+        source: ./sentinel
         target: /usr/local/etc/redis
     restart: always
     command: redis-sentinel /usr/local/etc/redis/sentinel.conf
     depends_on: 
       - master-1
-      - master-2
-      - master-3
+      - slave-1
+      - slave-2
+      - slave-3
