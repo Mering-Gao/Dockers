@@ -13,6 +13,9 @@ services:
         source: ./mysql-master/mysql
         target: /etc/mysql
       - type: bind
+        source: $HOME
+        target: /hosthome
+      - type: bind
         source: ./mysql-master/data
         target: /var/lib/mysql
     restart: always
@@ -28,9 +31,6 @@ services:
       - type: bind
         source: ./mysql-slave/mysql
         target: /etc/mysql
-      - type: bind
-        source: ./mysql-slave/data
-        target: /var/lib/mysql
     restart: always
     environment: 
       MYSQL_ROOT_PASSWORD: 123456
