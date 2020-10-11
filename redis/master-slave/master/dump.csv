@@ -1,0 +1,4 @@
+database,type,key,size_in_bytes,encoding,num_elements,len_largest_element,expiry
+0,string,b,64,string,12,12,
+0,string,c,80,string,25,25,
+0,string,a,48,string,8,8,
