@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+
+  gitbook:
+    image: gitbook
+    container_name: gitbook
+    volumes:
+      - type: bind
+        source: $HOME/projects
+        target: /data/
+    restart: always
