@@ -5,7 +5,7 @@ services:
   mysql-master:
     image: mysql:5.7
     container_name: mysql-master
-    network_mode: bridge 
+    network_mode: cusnet 
     ports:
       - "3306:3306"
     volumes: 
@@ -24,7 +24,7 @@ services:
   mysql-slave:
     image: mysql:5.7
     container_name: mysql-slave
-    network_mode: bridge
+    network_mode: cusnet
     ports:
       - "3307:3306"
     volumes: 

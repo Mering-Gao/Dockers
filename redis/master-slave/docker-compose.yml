@@ -5,7 +5,7 @@ services:
   redis-master:
     image: redis
     container_name: redis-master
-    network_mode: bridge
+    network_mode: cusnet
     ports:
       - "6379:6379"
     volumes: 
@@ -18,7 +18,7 @@ services:
   redis-slave:
     image: redis
     container_name: redis-slave
-    network_mode: bridge
+    network_mode: cusnet
     ports:
       - "6380:6379"
     volumes: 

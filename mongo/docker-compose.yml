@@ -4,6 +4,7 @@ services:
   mongo:
     image: mongo
     container_name: mongo
+    network_mode: cusnet
     ports:
       - "27017:27017"
     volumes:
