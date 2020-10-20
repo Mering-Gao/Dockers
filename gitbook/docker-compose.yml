@@ -2,10 +2,12 @@ version: "3.8"
 services:
 
   gitbook:
-    image: gitbook
+    image: fellah/gitbook
     container_name: gitbook
+    network_mode: cusnet
     volumes:
       - type: bind
-        source: $HOME/projects
-        target: /data/
+        source: /Users/mering/projects
+        target: /books/
     restart: always
+    command: /bin/bash

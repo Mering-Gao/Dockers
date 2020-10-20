@@ -5,7 +5,7 @@ services:
   mysql-master:
     image: mysql:5.7
     container_name: mysql-master
-    network_mode: cusnet
+    network_mode: bridge 
     ports:
       - "3306:3306"
     entrypoint: ['docker-entrypoint.sh', '--default-authentication-plugin=mysql_native_password']

@@ -6,7 +6,7 @@ services:
     container_name: mongo
     ports:
       - "27017:27017"
-    volumes: 
+    volumes:
       - type: bind
         source: ./db
         target: /data/db
