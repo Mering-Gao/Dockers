@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+
+  flask:
+    image: python:local
+    container_name: flask
+    network_mode: cusnet
+    volumes:
+      - type: bind
+        source: /Users/mering
+        target: /hosthome/
+    ports:
+        - "8000:8000"

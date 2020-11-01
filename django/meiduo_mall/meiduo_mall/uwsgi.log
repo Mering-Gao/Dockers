@@ -1,0 +1,1352 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:10:19 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:10:31 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:11:01 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:12:02 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:13:10 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:57272 (port auto-assigned) fd 3
+Python version: 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)  [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+Set PythonHome to /Users/meihao/.virtualenvs/meiduo_mall
+Python main interpreter initialized at 0x7f8c5f00c600
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7f8c5f00c600 pid: 12467 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12467)
+spawned uWSGI worker 1 (pid: 12492, cores: 2)
+spawned uWSGI worker 2 (pid: 12493, cores: 2)
+spawned uWSGI worker 3 (pid: 12494, cores: 2)
+spawned uWSGI worker 4 (pid: 12495, cores: 2)
+spawned uWSGI http 1 (pid: 12496)
+[pid: 12494|app: 0|req: 1/1] 127.0.0.1 () {40 vars in 730 bytes} [Sun May 10 08:14:46 2020] GET /carts/simple/ => generated 27 bytes in 449 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 0)
+[pid: 12495|app: 0|req: 1/2] 127.0.0.1 () {40 vars in 730 bytes} [Sun May 10 08:14:46 2020] GET /carts/simple/ => generated 27 bytes in 277 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12494|app: 0|req: 2/3] 127.0.0.1 () {40 vars in 819 bytes} [Sun May 10 08:14:54 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 3/4] 127.0.0.1 () {40 vars in 726 bytes} [Sun May 10 08:14:54 2020] GET /hot/115/ => generated 87 bytes in 3 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 3/5] 127.0.0.1 () {40 vars in 736 bytes} [Sun May 10 08:14:54 2020] GET /carts/simple/ => generated 27 bytes in 5 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 5/6] 127.0.0.1 () {40 vars in 726 bytes} [Sun May 10 08:14:55 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 5/7] 127.0.0.1 () {40 vars in 736 bytes} [Sun May 10 08:14:55 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12493|app: 0|req: 1/8] 127.0.0.1 () {40 vars in 819 bytes} [Sun May 10 08:14:55 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 247 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 12494|app: 0|req: 3/9] 127.0.0.1 () {40 vars in 819 bytes} [Sun May 10 08:14:56 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 7/10] 127.0.0.1 () {40 vars in 726 bytes} [Sun May 10 08:14:56 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 7/11] 127.0.0.1 () {40 vars in 736 bytes} [Sun May 10 08:14:56 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 0)
+[pid: 12495|app: 0|req: 8/12] 127.0.0.1 () {40 vars in 820 bytes} [Sun May 10 08:14:57 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12493|app: 0|req: 2/13] 127.0.0.1 () {40 vars in 727 bytes} [Sun May 10 08:14:57 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12494|app: 0|req: 4/14] 127.0.0.1 () {40 vars in 737 bytes} [Sun May 10 08:14:57 2020] GET /carts/simple/ => generated 27 bytes in 2 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 1)
+[pid: 12493|app: 0|req: 4/15] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:15:09 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 9/16] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:15:09 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12493|app: 0|req: 4/17] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:09 2020] GET /carts/simple/ => generated 27 bytes in 18 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12494|app: 0|req: 5/18] 127.0.0.1 () {38 vars in 673 bytes} [Sun May 10 08:15:11 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 0)
+[pid: 12494|app: 0|req: 6/19] 127.0.0.1 () {38 vars in 673 bytes} [Sun May 10 08:15:11 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12494|app: 0|req: 7/20] 127.0.0.1 () {38 vars in 673 bytes} [Sun May 10 08:15:11 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 10/21] 127.0.0.1 () {38 vars in 673 bytes} [Sun May 10 08:15:11 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 11/22] 127.0.0.1 () {38 vars in 673 bytes} [Sun May 10 08:15:12 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 0)
+[pid: 12495|app: 0|req: 12/23] 127.0.0.1 () {38 vars in 673 bytes} [Sun May 10 08:15:12 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 1)
+[pid: 12494|app: 0|req: 9/24] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:15:14 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12493|app: 0|req: 5/26] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:14 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 1)
+[pid: 12494|app: 0|req: 9/26] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:15:14 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12494|app: 0|req: 10/28] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:15:16 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 13/28] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:15:16 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12493|app: 0|req: 6/29] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:16 2020] GET /carts/simple/ => generated 27 bytes in 2 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 15/30] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:15:16 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 15/31] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:16 2020] GET /carts/simple/ => generated 27 bytes in 5 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12492|app: 0|req: 1/32] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:15:16 2020] GET /hot/115/ => generated 87 bytes in 267 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12495|app: 0|req: 17/33] 127.0.0.1 () {42 vars in 815 bytes} [Sun May 10 08:15:21 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 17/34] 127.0.0.1 () {42 vars in 722 bytes} [Sun May 10 08:15:21 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12494|app: 0|req: 11/35] 127.0.0.1 () {42 vars in 732 bytes} [Sun May 10 08:15:21 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 18/36] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:32 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 19/37] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:15:32 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12494|app: 0|req: 12/38] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:15:32 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12492|app: 0|req: 2/39] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:32 2020] GET /carts/simple/ => generated 27 bytes in 32 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 20/40] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:15:33 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12494|app: 0|req: 13/42] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:33 2020] GET /carts/simple/ => generated 27 bytes in 2 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 21/42] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:15:33 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12493|app: 0|req: 7/43] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:15:50 2020] GET /carts/simple/ => generated 27 bytes in 2 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 1)
+[pid: 12495|app: 0|req: 22/44] 127.0.0.1 () {38 vars in 663 bytes} [Sun May 10 08:16:29 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 23/45] 127.0.0.1 () {38 vars in 663 bytes} [Sun May 10 08:16:29 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 24/47] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:16:32 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12494|app: 0|req: 14/47] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:16:32 2020] GET /hot/115/ => generated 87 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 25/48] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:16:32 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12494|app: 0|req: 15/49] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:16:34 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 27/50] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:16:34 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 12495|app: 0|req: 27/51] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:16:34 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 28/52] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:16:34 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 12494|app: 0|req: 17/53] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:16:34 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12494|app: 0|req: 17/54] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:16:34 2020] GET /carts/simple/ => generated 27 bytes in 3 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12495|app: 0|req: 29/56] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:16:38 2020] GET /hot/115/ => generated 87 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12494|app: 0|req: 18/56] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:16:38 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12493|app: 0|req: 8/57] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:16:38 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (1 switches on core 1)
+[pid: 12495|app: 0|req: 31/58] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:16:38 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 12494|app: 0|req: 19/59] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:16:38 2020] GET /hot/115/ => generated 87 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12495|app: 0|req: 31/60] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:16:38 2020] GET /carts/simple/ => generated 27 bytes in 2 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 0)
+[pid: 12494|app: 0|req: 20/61] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:17:32 2020] GET /carts/simple/ => generated 27 bytes in 1 msecs (HTTP/1.1 500) 6 headers in 232 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 33/63] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:17:32 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12495|app: 0|req: 33/63] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:17:32 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 12496)
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:18:09 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:57807 (port auto-assigned) fd 3
+Python version: 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)  [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+Set PythonHome to /Users/meihao/.virtualenvs/meiduo_mall
+Python main interpreter initialized at 0x7fc169013200
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fc169013200 pid: 12744 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12744)
+spawned uWSGI worker 1 (pid: 12769, cores: 2)
+spawned uWSGI worker 2 (pid: 12770, cores: 2)
+spawned uWSGI worker 3 (pid: 12771, cores: 2)
+spawned uWSGI worker 4 (pid: 12772, cores: 2)
+spawned uWSGI http 1 (pid: 12773)
+[pid: 12772|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:18:17 2020] GET /hot/115/ => generated 87 bytes in 270 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12771|app: 0|req: 2/2] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:18:17 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 286 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12771|app: 0|req: 2/3] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:18:17 2020] GET /carts/simple/ => generated 101090 bytes in 322 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12771|app: 0|req: 4/4] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:18:17 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12771|app: 0|req: 4/5] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:18:17 2020] GET /carts/simple/ => generated 101090 bytes in 50 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12771|app: 0|req: 5/6] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:18:18 2020] GET /hot/115/ => generated 87 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12772|app: 0|req: 3/7] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:18:18 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 3 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12770|app: 0|req: 1/8] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:18:17 2020] GET /hot/115/ => generated 87 bytes in 267 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12772|app: 0|req: 3/9] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:18:18 2020] GET /carts/simple/ => generated 101090 bytes in 56 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 1)
+[pid: 12772|app: 0|req: 4/10] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:18:18 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12771|app: 0|req: 7/11] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:18:18 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12771|app: 0|req: 7/12] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:18:18 2020] GET /carts/simple/ => generated 101090 bytes in 45 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 1)
+[pid: 12770|app: 0|req: 2/13] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:18:18 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12771|app: 0|req: 9/14] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:18:18 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12771|app: 0|req: 9/15] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:18:18 2020] GET /carts/simple/ => generated 101090 bytes in 44 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12770|app: 0|req: 3/16] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:18:18 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12771|app: 0|req: 10/17] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:18:18 2020] GET /carts/simple/ => generated 101090 bytes in 45 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 0)
+[pid: 12769|app: 0|req: 1/18] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:18:18 2020] GET /hot/115/ => generated 87 bytes in 253 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12771|app: 0|req: 11/19] 127.0.0.1 () {38 vars in 762 bytes} [Sun May 10 08:18:23 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12772|app: 0|req: 5/20] 127.0.0.1 () {38 vars in 669 bytes} [Sun May 10 08:18:23 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12769|app: 0|req: 2/21] 127.0.0.1 () {38 vars in 679 bytes} [Sun May 10 08:18:23 2020] GET /carts/simple/ => generated 101089 bytes in 56 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12771|app: 0|req: 12/23] 127.0.0.1 () {38 vars in 762 bytes} [Sun May 10 08:18:23 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12772|app: 0|req: 6/23] 127.0.0.1 () {38 vars in 669 bytes} [Sun May 10 08:18:23 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12771|app: 0|req: 13/24] 127.0.0.1 () {38 vars in 679 bytes} [Sun May 10 08:18:23 2020] GET /carts/simple/ => generated 101089 bytes in 43 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12770|app: 0|req: 4/26] 127.0.0.1 () {38 vars in 669 bytes} [Sun May 10 08:18:23 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12772|app: 0|req: 8/26] 127.0.0.1 () {38 vars in 762 bytes} [Sun May 10 08:18:23 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 3 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12772|app: 0|req: 8/27] 127.0.0.1 () {38 vars in 679 bytes} [Sun May 10 08:18:23 2020] GET /carts/simple/ => generated 101089 bytes in 46 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 0)
+[pid: 12772|app: 0|req: 10/29] 127.0.0.1 () {38 vars in 762 bytes} [Sun May 10 08:18:24 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12772|app: 0|req: 10/29] 127.0.0.1 () {38 vars in 669 bytes} [Sun May 10 08:18:24 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12770|app: 0|req: 5/30] 127.0.0.1 () {38 vars in 679 bytes} [Sun May 10 08:18:24 2020] GET /carts/simple/ => generated 101089 bytes in 54 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 12773)
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:18:54 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:57892 (port auto-assigned) fd 3
+Python version: 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)  [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+Set PythonHome to /Users/meihao/.virtualenvs/meiduo_mall
+Python main interpreter initialized at 0x7ffa1d000000
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7ffa1d000000 pid: 12864 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 12864)
+spawned uWSGI worker 1 (pid: 12889, cores: 2)
+spawned uWSGI worker 2 (pid: 12890, cores: 2)
+spawned uWSGI worker 3 (pid: 12891, cores: 2)
+spawned uWSGI worker 4 (pid: 12892, cores: 2)
+spawned uWSGI http 1 (pid: 12893)
+[pid: 12890|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:19:04 2020] GET /hot/115/ => generated 87 bytes in 398 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12891|app: 0|req: 2/2] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:19:04 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 410 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12891|app: 0|req: 2/3] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:19:04 2020] GET /carts/simple/ => generated 101171 bytes in 456 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12890|app: 0|req: 2/4] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:19:05 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12892|app: 0|req: 2/5] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:19:05 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 274 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12892|app: 0|req: 2/6] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:19:05 2020] GET /carts/simple/ => generated 101171 bytes in 309 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 1)
+[pid: 12892|app: 0|req: 3/7] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:19:05 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 12891|app: 0|req: 4/8] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:19:05 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12891|app: 0|req: 4/9] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:19:05 2020] GET /carts/simple/ => generated 101171 bytes in 47 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 0)
+[pid: 12892|app: 0|req: 5/11] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:19:06 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12892|app: 0|req: 5/11] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:19:06 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12891|app: 0|req: 5/12] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:19:06 2020] GET /carts/simple/ => generated 101171 bytes in 45 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12892|app: 0|req: 6/13] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:19:06 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 12891|app: 0|req: 7/14] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:19:06 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12891|app: 0|req: 7/15] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:19:06 2020] GET /carts/simple/ => generated 101171 bytes in 43 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12890|app: 0|req: 3/16] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:19:06 2020] GET /hot/115/ => generated 87 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 12892|app: 0|req: 8/17] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:19:06 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12892|app: 0|req: 8/18] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:19:06 2020] GET /carts/simple/ => generated 101171 bytes in 45 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 12890|app: 0|req: 4/19] 127.0.0.1 () {42 vars in 816 bytes} [Sun May 10 08:19:14 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 12892|app: 0|req: 9/20] 127.0.0.1 () {42 vars in 723 bytes} [Sun May 10 08:19:14 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 12891|app: 0|req: 8/21] 127.0.0.1 () {42 vars in 733 bytes} [Sun May 10 08:19:14 2020] GET /carts/simple/ => generated 101432 bytes in 53 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 12893)
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:21:54 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:58625 (port auto-assigned) fd 3
+Python version: 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)  [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+Set PythonHome to /Users/meihao/.virtualenvs/meiduo_mall
+Python main interpreter initialized at 0x7fcaa1001000
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fcaa1001000 pid: 13184 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13184)
+spawned uWSGI worker 1 (pid: 13209, cores: 2)
+spawned uWSGI worker 2 (pid: 13210, cores: 2)
+spawned uWSGI worker 3 (pid: 13211, cores: 2)
+spawned uWSGI worker 4 (pid: 13212, cores: 2)
+spawned uWSGI http 1 (pid: 13213)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13211|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 663 bytes} [Sun May 10 08:22:27 2020] GET /carts/simple/ => generated 101154 bytes in 444 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13212|app: 0|req: 1/2] 127.0.0.1 () {38 vars in 663 bytes} [Sun May 10 08:22:27 2020] GET /carts/simple/ => generated 101154 bytes in 331 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13211|app: 0|req: 2/3] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:22:30 2020] GET /carts/simple/ => generated 101171 bytes in 46 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 1)
+[pid: 13210|app: 0|req: 2/4] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:22:30 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 257 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 13210|app: 0|req: 2/5] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:22:30 2020] GET /hot/115/ => generated 87 bytes in 256 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 13212|app: 0|req: 2/7] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:22:32 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 13211|app: 0|req: 4/7] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:22:32 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 3 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13211|app: 0|req: 4/8] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:22:32 2020] GET /carts/simple/ => generated 101171 bytes in 46 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 13211|app: 0|req: 6/10] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:22:33 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 3 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 0)
+[pid: 13211|app: 0|req: 6/10] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:22:33 2020] GET /hot/115/ => generated 87 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13212|app: 0|req: 3/11] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:22:33 2020] GET /carts/simple/ => generated 101171 bytes in 48 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 0)
+[pid: 13212|app: 0|req: 4/12] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:24:04 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 13211|app: 0|req: 8/13] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:24:04 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13211|app: 0|req: 8/14] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:24:04 2020] GET /carts/simple/ => generated 101171 bytes in 41 msecs (HTTP/1.1 500) 6 headers in 236 bytes (1 switches on core 0)
+[pid: 13212|app: 0|req: 5/16] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:24:05 2020] GET /hot/115/ => generated 87 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+[pid: 13211|app: 0|req: 9/16] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:24:05 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13211|app: 0|req: 10/17] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:24:05 2020] GET /carts/simple/ => generated 101171 bytes in 44 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 0)
+[pid: 13211|app: 0|req: 11/18] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:24:05 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+[pid: 13212|app: 0|req: 6/19] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:24:05 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (2 switches on core 1)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13210|app: 0|req: 3/20] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:24:05 2020] GET /carts/simple/ => generated 101171 bytes in 50 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+[pid: 13211|app: 0|req: 12/22] 127.0.0.1 () {38 vars in 670 bytes} [Sun May 10 08:24:09 2020] GET /hot/115/ => generated 87 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 1)
+[pid: 13212|app: 0|req: 8/22] 127.0.0.1 () {38 vars in 763 bytes} [Sun May 10 08:24:09 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 77 bytes in 2 msecs (HTTP/1.1 200) 6 headers in 212 bytes (1 switches on core 0)
+ERROR log 228 Internal Server Error: /carts/simple/
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 166, in ensure_defaults
+    conn = self.databases[alias]
+KeyError: 'slave'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall/apps/carts/views.py", line 447, in get
+    for sku in skus:
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 274, in __iter__
+    self._fetch_all()
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/query.py", line 52, in __iter__
+    compiler = queryset.query.get_compiler(using=db)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/models/sql/query.py", line 288, in get_compiler
+    connection = connections[using]
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 198, in __getitem__
+    self.ensure_defaults(alias)
+  File "/Users/meihao/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/utils.py", line 168, in ensure_defaults
+    raise ConnectionDoesNotExist("The connection %s doesn't exist" % alias)
+django.db.utils.ConnectionDoesNotExist: The connection slave doesn't exist
+[pid: 13212|app: 0|req: 8/23] 127.0.0.1 () {38 vars in 680 bytes} [Sun May 10 08:24:09 2020] GET /carts/simple/ => generated 101171 bytes in 47 msecs (HTTP/1.1 500) 6 headers in 236 bytes (2 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 13213)
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 16:24:17 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+writing pidfile to uwsgi.pid
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:58883 (port auto-assigned) fd 3
+Python version: 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)  [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+Set PythonHome to /Users/meihao/.virtualenvs/meiduo_mall
+Python main interpreter initialized at 0x7fabf8801000
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fabf8801000 pid: 13463 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 13463)
+spawned uWSGI worker 1 (pid: 13488, cores: 2)
+spawned uWSGI worker 2 (pid: 13489, cores: 2)
+spawned uWSGI worker 3 (pid: 13490, cores: 2)
+spawned uWSGI worker 4 (pid: 13491, cores: 2)
+spawned uWSGI http 1 (pid: 13492)
+[pid: 13490|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 679 bytes} [Sun May 10 08:24:24 2020] GET /carts/simple/ => generated 44 bytes in 267 msecs (HTTP/1.1 200) 6 headers in 220 bytes (2 switches on core 1)
+[pid: 13489|app: 0|req: 2/2] 127.0.0.1 () {38 vars in 669 bytes} [Sun May 10 08:24:24 2020] GET /hot/115/ => generated 606 bytes in 283 msecs (HTTP/1.1 200) 6 headers in 213 bytes (2 switches on core 1)
+[pid: 13489|app: 0|req: 2/3] 127.0.0.1 () {38 vars in 762 bytes} [Sun May 10 08:24:24 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 1561 bytes in 283 msecs (HTTP/1.1 200) 6 headers in 214 bytes (2 switches on core 0)
+[pid: 13489|app: 0|req: 3/4] 127.0.0.1 () {38 vars in 762 bytes} [Sun May 10 08:25:24 2020] GET /list/115/skus/?page=1&page_size=5&ordering=-create_time => generated 1561 bytes in 10 msecs (HTTP/1.1 200) 6 headers in 214 bytes (1 switches on core 1)
+[pid: 13491|app: 0|req: 2/5] 127.0.0.1 () {38 vars in 679 bytes} [Sun May 10 08:25:24 2020] GET /carts/simple/ => generated 44 bytes in 271 msecs (HTTP/1.1 200) 6 headers in 220 bytes (2 switches on core 0)
+[pid: 13491|app: 0|req: 2/6] 127.0.0.1 () {38 vars in 669 bytes} [Sun May 10 08:25:24 2020] GET /hot/115/ => generated 606 bytes in 272 msecs (HTTP/1.1 200) 6 headers in 213 bytes (2 switches on core 1)
+gateway "uWSGI http 1" has been buried (pid: 13492)
+...brutally killing workers...
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+closing all non-uwsgi socket fds > 2 (max_fd = 4864)...
+found fd 3 mapped to socket 0 (127.0.0.1:58883)
+running /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Sun May 10 09:42:40 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 11.0.0 (clang-1100.0.20.17) on 02 April 2020 10:14:19
+os: Darwin-18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64
+nodename: Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 12
+current working directory: /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall/meiduo_mall
+detected binary path: /Users/meihao/.virtualenvs/meiduo_mall/bin/uwsgi
+chdir() to /Users/meihao/Desktop/meiduo_mall_pro/meiduo_mall
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 4864
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 5
+uwsgi socket 0 bound to TCP address 127.0.0.1:59245 (port auto-assigned) fd 4
+Python version: 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)  [GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)]
+Set PythonHome to /Users/meihao/.virtualenvs/meiduo_mall
+Python main interpreter initialized at 0x7fc0ae013600
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416560 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fc0ae013600 pid: 13463 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 13463)
+spawned uWSGI worker 1 (pid: 16964, cores: 2)
+spawned uWSGI worker 2 (pid: 16965, cores: 2)
+spawned uWSGI worker 3 (pid: 16966, cores: 2)
+spawned uWSGI worker 4 (pid: 16967, cores: 2)
+spawned uWSGI http 1 (pid: 16968)

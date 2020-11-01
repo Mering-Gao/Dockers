@@ -4,3 +4,4 @@ mysql/mysql-master/data/
 mysql/mysql-slave/data/
 mongo/db
 .DS_Store
+*.pyc

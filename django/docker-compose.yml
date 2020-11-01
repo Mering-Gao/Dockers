@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+
+  django:
+    image: python:local
+    container_name: django
+    network_mode: cusnet
+    volumes:
+      - type: bind
+        source: /Users/mering
+        target: /hosthome/
+      - type: bind
+        source: ./meiduo_mall
+        target: /meiduo_mall
+    ports:
+        - "7000:8000"
+    restart: always
+    working_dir: /meiduo_mall
+    command: python manage.py runserver 0.0.0.0:8000
