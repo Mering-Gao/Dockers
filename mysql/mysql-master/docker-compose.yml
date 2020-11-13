@@ -16,6 +16,9 @@ services:
       - type: bind
         source: ./data
         target: /var/lib/mysql
+      - type: bind
+        source: /Users/mering
+        target: /hosthome
     restart: always
     environment: 
       MYSQL_ROOT_PASSWORD: 123456
