@@ -1,0 +1,1 @@
+slaveof sentinel-master 6379

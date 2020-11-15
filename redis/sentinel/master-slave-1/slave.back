@@ -1,1 +1,0 @@
-replicaof sentinel-master-1 6379

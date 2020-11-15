@@ -1,2 +1,0 @@
-sentinel monitor sentinel-master-3 sentinel-master-3 6379 2
-sentinel down-after-milliseconds sentinel-master-3 60000
