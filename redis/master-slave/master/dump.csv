@@ -1,4 +1,4 @@
 database,type,key,size_in_bytes,encoding,num_elements,len_largest_element,expiry
-0,string,b,64,string,12,12,
-0,string,c,80,string,25,25,
-0,string,a,48,string,8,8,
+0,string,count,48,string,8,8,
+0,hash,user,98,ziplist,3,8,
+0,string,name,64,string,8,8,

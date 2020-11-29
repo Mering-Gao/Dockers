@@ -4,15 +4,15 @@ services:
 
   mysql-master:
     image: mysql:5.7
-    container_name: mysql-master
+    container_name: mysql-master-2
     network_mode: cusnet
     ports:
-      - "3306:3306"
+      - "3309:3306"
     entrypoint: ['docker-entrypoint.sh', '--default-authentication-plugin=mysql_native_password']
     volumes: 
       - type: bind
-        source: ./mysql
-        target: /etc/mysql
+        source: ./mysql/my.cnf
+        target: /etc/mysql/my.cnf
       - type: bind
         source: ./data
         target: /var/lib/mysql
